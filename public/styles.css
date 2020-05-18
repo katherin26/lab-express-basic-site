@@ -1,0 +1,24 @@
+body {
+  background-color: #008080;
+  font-family: "Nanum Gothic Coding", monospace;
+}
+
+.kathe_jumbotron {
+  background-image: url("https://img.freepik.com/free-vector/futuristic-technology-background-with-honeycombs_23-2148481277.jpg?size=626&ext=jpg");
+  background-color: transparent;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.kathe_img {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.kathe_margin_top {
+  margin-top: 50px;
+}
+
+.kathe_margin_left {
+  margin: 0 60px;
+}
